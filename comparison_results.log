@@ -1,0 +1,3503 @@
+Comparison Results Log
+======================
+
+Iteration 1:
+  Image 1: ../Data_set/images_sorties/test\image16627.jpg
+  Image 2: ../Data_set/images_sorties/test\image16231_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 2:
+  Image 1: ../Data_set/images_sorties/test\image16827.jpg
+  Image 2: ../Data_set/images_sorties/test\image16416_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 3:
+  Image 1: ../Data_set/images_sorties/test\image17674.jpg
+  Image 2: ../Data_set/images_sorties/test\image16253_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 4:
+  Image 1: ../Data_set/images_sorties/test\image16580.jpg
+  Image 2: ../Data_set/images_sorties/test\image17430_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 5:
+  Image 1: ../Data_set/images_sorties/test\image17545_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16182.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 6:
+  Image 1: ../Data_set/images_sorties/test\image17656_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16767_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 7:
+  Image 1: ../Data_set/images_sorties/test\image15998_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16754.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 8:
+  Image 1: ../Data_set/images_sorties/test\image16845.jpg
+  Image 2: ../Data_set/images_sorties/test\image16196.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 9:
+  Image 1: ../Data_set/images_sorties/test\image17136_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17596.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 10:
+  Image 1: ../Data_set/images_sorties/test\image17444_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16756.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 11:
+  Image 1: ../Data_set/images_sorties/test\image16619_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16060.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 12:
+  Image 1: ../Data_set/images_sorties/test\image16904.jpg
+  Image 2: ../Data_set/images_sorties/test\image17722.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 13:
+  Image 1: ../Data_set/images_sorties/test\image17690_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17540.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 14:
+  Image 1: ../Data_set/images_sorties/test\image16874_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image15991_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 15:
+  Image 1: ../Data_set/images_sorties/test\image16820.jpg
+  Image 2: ../Data_set/images_sorties/test\image16288.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 16:
+  Image 1: ../Data_set/images_sorties/test\image16868_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17732.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 17:
+  Image 1: ../Data_set/images_sorties/test\image16743_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17040.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 18:
+  Image 1: ../Data_set/images_sorties/test\image16763_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16055.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 19:
+  Image 1: ../Data_set/images_sorties/test\image16623.jpg
+  Image 2: ../Data_set/images_sorties/test\image16800.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 20:
+  Image 1: ../Data_set/images_sorties/test\image16842_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16056_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 21:
+  Image 1: ../Data_set/images_sorties/test\image16991.jpg
+  Image 2: ../Data_set/images_sorties/test\image16068.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 22:
+  Image 1: ../Data_set/images_sorties/test\image17214_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17563_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 23:
+  Image 1: ../Data_set/images_sorties/test\image17391.jpg
+  Image 2: ../Data_set/images_sorties/test\image17080_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 24:
+  Image 1: ../Data_set/images_sorties/test\image16899_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16926_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 25:
+  Image 1: ../Data_set/images_sorties/test\image16781.jpg
+  Image 2: ../Data_set/images_sorties/test\image16289_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 26:
+  Image 1: ../Data_set/images_sorties/test\image17043.jpg
+  Image 2: ../Data_set/images_sorties/test\image16799_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 27:
+  Image 1: ../Data_set/images_sorties/test\image16846_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16880.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 28:
+  Image 1: ../Data_set/images_sorties/test\image17044_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16223.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 29:
+  Image 1: ../Data_set/images_sorties/test\image16868.jpg
+  Image 2: ../Data_set/images_sorties/test\image16980_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 30:
+  Image 1: ../Data_set/images_sorties/test\image17452.jpg
+  Image 2: ../Data_set/images_sorties/test\image17296.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 31:
+  Image 1: ../Data_set/images_sorties/test\image17164_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16791_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 32:
+  Image 1: ../Data_set/images_sorties/test\image17630_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16903_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 33:
+  Image 1: ../Data_set/images_sorties/test\image16903.jpg
+  Image 2: ../Data_set/images_sorties/test\image16113_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 34:
+  Image 1: ../Data_set/images_sorties/test\image16360_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17556_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 35:
+  Image 1: ../Data_set/images_sorties/test\image17499_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16830_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 36:
+  Image 1: ../Data_set/images_sorties/test\image16608_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16461.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 37:
+  Image 1: ../Data_set/images_sorties/test\image17442_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16880.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 38:
+  Image 1: ../Data_set/images_sorties/test\image16681.jpg
+  Image 2: ../Data_set/images_sorties/test\image17386.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 39:
+  Image 1: ../Data_set/images_sorties/test\image17453.jpg
+  Image 2: ../Data_set/images_sorties/test\image17669.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 40:
+  Image 1: ../Data_set/images_sorties/test\image17280.jpg
+  Image 2: ../Data_set/images_sorties/test\image17578.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 41:
+  Image 1: ../Data_set/images_sorties/test\image16041.jpg
+  Image 2: ../Data_set/images_sorties/test\image17442_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 42:
+  Image 1: ../Data_set/images_sorties/test\image16067.jpg
+  Image 2: ../Data_set/images_sorties/test\image16948_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 43:
+  Image 1: ../Data_set/images_sorties/test\image17617.jpg
+  Image 2: ../Data_set/images_sorties/test\image16970.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 44:
+  Image 1: ../Data_set/images_sorties/test\image17385.jpg
+  Image 2: ../Data_set/images_sorties/test\image16377.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 45:
+  Image 1: ../Data_set/images_sorties/test\image16077_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16561.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 46:
+  Image 1: ../Data_set/images_sorties/test\image17760_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17579.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 47:
+  Image 1: ../Data_set/images_sorties/test\image17021_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17084_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 48:
+  Image 1: ../Data_set/images_sorties/test\image16017.jpg
+  Image 2: ../Data_set/images_sorties/test\image16066.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 49:
+  Image 1: ../Data_set/images_sorties/test\image16736_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17194_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 50:
+  Image 1: ../Data_set/images_sorties/test\image17684.jpg
+  Image 2: ../Data_set/images_sorties/test\image17379_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 51:
+  Image 1: ../Data_set/images_sorties/test\image16577.jpg
+  Image 2: ../Data_set/images_sorties/test\image17484_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 52:
+  Image 1: ../Data_set/images_sorties/test\image17712.jpg
+  Image 2: ../Data_set/images_sorties/test\image17132.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 53:
+  Image 1: ../Data_set/images_sorties/test\image16108_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16244.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 54:
+  Image 1: ../Data_set/images_sorties/test\image16309.jpg
+  Image 2: ../Data_set/images_sorties/test\image16505_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 55:
+  Image 1: ../Data_set/images_sorties/test\image16471.jpg
+  Image 2: ../Data_set/images_sorties/test\image16694_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 56:
+  Image 1: ../Data_set/images_sorties/test\image17046_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16982.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 57:
+  Image 1: ../Data_set/images_sorties/test\image16207.jpg
+  Image 2: ../Data_set/images_sorties/test\image16264.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 58:
+  Image 1: ../Data_set/images_sorties/test\image17009_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16200.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 59:
+  Image 1: ../Data_set/images_sorties/test\image16161.jpg
+  Image 2: ../Data_set/images_sorties/test\image16510.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 60:
+  Image 1: ../Data_set/images_sorties/test\image17539_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17684_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 61:
+  Image 1: ../Data_set/images_sorties/test\image16671.jpg
+  Image 2: ../Data_set/images_sorties/test\image16356_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 62:
+  Image 1: ../Data_set/images_sorties/test\image17564_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17614_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 63:
+  Image 1: ../Data_set/images_sorties/test\image16184.jpg
+  Image 2: ../Data_set/images_sorties/test\image16570_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 64:
+  Image 1: ../Data_set/images_sorties/test\image17406_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16031_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 65:
+  Image 1: ../Data_set/images_sorties/test\image17065_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16684_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 66:
+  Image 1: ../Data_set/images_sorties/test\image16742_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17394_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 67:
+  Image 1: ../Data_set/images_sorties/test\image16227_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17646_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 68:
+  Image 1: ../Data_set/images_sorties/test\image16484.jpg
+  Image 2: ../Data_set/images_sorties/test\image17161.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 69:
+  Image 1: ../Data_set/images_sorties/test\image16876.jpg
+  Image 2: ../Data_set/images_sorties/test\image16771.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 70:
+  Image 1: ../Data_set/images_sorties/test\image16198_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17489.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 71:
+  Image 1: ../Data_set/images_sorties/test\image16829.jpg
+  Image 2: ../Data_set/images_sorties/test\image16059_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 72:
+  Image 1: ../Data_set/images_sorties/test\image17271.jpg
+  Image 2: ../Data_set/images_sorties/test\image16861.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 73:
+  Image 1: ../Data_set/images_sorties/test\image17328.jpg
+  Image 2: ../Data_set/images_sorties/test\image17007.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 74:
+  Image 1: ../Data_set/images_sorties/test\image16144_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17460.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 75:
+  Image 1: ../Data_set/images_sorties/test\image16138_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16803_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 76:
+  Image 1: ../Data_set/images_sorties/test\image16369.jpg
+  Image 2: ../Data_set/images_sorties/test\image17700_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 77:
+  Image 1: ../Data_set/images_sorties/test\image17317_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16834_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 78:
+  Image 1: ../Data_set/images_sorties/test\image17048.jpg
+  Image 2: ../Data_set/images_sorties/test\image16035.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 79:
+  Image 1: ../Data_set/images_sorties/test\image16042.jpg
+  Image 2: ../Data_set/images_sorties/test\image16627_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 80:
+  Image 1: ../Data_set/images_sorties/test\image17593_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16969_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 81:
+  Image 1: ../Data_set/images_sorties/test\image17248.jpg
+  Image 2: ../Data_set/images_sorties/test\image17230_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 82:
+  Image 1: ../Data_set/images_sorties/test\image16256.jpg
+  Image 2: ../Data_set/images_sorties/test\image17492.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 83:
+  Image 1: ../Data_set/images_sorties/test\image16946_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17177_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 84:
+  Image 1: ../Data_set/images_sorties/test\image17447.jpg
+  Image 2: ../Data_set/images_sorties/test\image16277_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 85:
+  Image 1: ../Data_set/images_sorties/test\image17062_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16961.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 86:
+  Image 1: ../Data_set/images_sorties/test\image17232_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17228_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 87:
+  Image 1: ../Data_set/images_sorties/test\image17130_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17304.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 88:
+  Image 1: ../Data_set/images_sorties/test\image17062_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17023.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 89:
+  Image 1: ../Data_set/images_sorties/test\image17629_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16719.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 90:
+  Image 1: ../Data_set/images_sorties/test\image16201_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16044.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 91:
+  Image 1: ../Data_set/images_sorties/test\image17374_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16808_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 92:
+  Image 1: ../Data_set/images_sorties/test\image16151.jpg
+  Image 2: ../Data_set/images_sorties/test\image16051_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 93:
+  Image 1: ../Data_set/images_sorties/test\image16247.jpg
+  Image 2: ../Data_set/images_sorties/test\image16111_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 94:
+  Image 1: ../Data_set/images_sorties/test\image16548_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17668_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 95:
+  Image 1: ../Data_set/images_sorties/test\image17729.jpg
+  Image 2: ../Data_set/images_sorties/test\image17734_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 96:
+  Image 1: ../Data_set/images_sorties/test\image16388.jpg
+  Image 2: ../Data_set/images_sorties/test\image16538_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 97:
+  Image 1: ../Data_set/images_sorties/test\image16483.jpg
+  Image 2: ../Data_set/images_sorties/test\image17014.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 98:
+  Image 1: ../Data_set/images_sorties/test\image16295_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16180.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 99:
+  Image 1: ../Data_set/images_sorties/test\image17063.jpg
+  Image 2: ../Data_set/images_sorties/test\image16724.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 100:
+  Image 1: ../Data_set/images_sorties/test\image16247.jpg
+  Image 2: ../Data_set/images_sorties/test\image17155.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 101:
+  Image 1: ../Data_set/images_sorties/test\image16325.jpg
+  Image 2: ../Data_set/images_sorties/test\image16874.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 102:
+  Image 1: ../Data_set/images_sorties/test\image17349.jpg
+  Image 2: ../Data_set/images_sorties/test\image16942.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 103:
+  Image 1: ../Data_set/images_sorties/test\image16546.jpg
+  Image 2: ../Data_set/images_sorties/test\image17491_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 104:
+  Image 1: ../Data_set/images_sorties/test\image16871_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16396.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 105:
+  Image 1: ../Data_set/images_sorties/test\image17072_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16366.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 106:
+  Image 1: ../Data_set/images_sorties/test\image17090_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17126_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 107:
+  Image 1: ../Data_set/images_sorties/test\image16994_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17693_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 108:
+  Image 1: ../Data_set/images_sorties/test\image16852.jpg
+  Image 2: ../Data_set/images_sorties/test\image17142_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 109:
+  Image 1: ../Data_set/images_sorties/test\image16365_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17253_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 110:
+  Image 1: ../Data_set/images_sorties/test\image16698_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17466_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 111:
+  Image 1: ../Data_set/images_sorties/test\image17664.jpg
+  Image 2: ../Data_set/images_sorties/test\image17050.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 112:
+  Image 1: ../Data_set/images_sorties/test\image16893_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16428.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 113:
+  Image 1: ../Data_set/images_sorties/test\image17657.jpg
+  Image 2: ../Data_set/images_sorties/test\image17016_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 114:
+  Image 1: ../Data_set/images_sorties/test\image16695.jpg
+  Image 2: ../Data_set/images_sorties/test\image16417.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 115:
+  Image 1: ../Data_set/images_sorties/test\image17033.jpg
+  Image 2: ../Data_set/images_sorties/test\image17719_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 116:
+  Image 1: ../Data_set/images_sorties/test\image16295.jpg
+  Image 2: ../Data_set/images_sorties/test\image16919_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 117:
+  Image 1: ../Data_set/images_sorties/test\image16686_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17759_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 118:
+  Image 1: ../Data_set/images_sorties/test\image17004.jpg
+  Image 2: ../Data_set/images_sorties/test\image17287.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 119:
+  Image 1: ../Data_set/images_sorties/test\image17606.jpg
+  Image 2: ../Data_set/images_sorties/test\image16079_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 120:
+  Image 1: ../Data_set/images_sorties/test\image16451_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17541_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 121:
+  Image 1: ../Data_set/images_sorties/test\image16400.jpg
+  Image 2: ../Data_set/images_sorties/test\image16455_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 122:
+  Image 1: ../Data_set/images_sorties/test\image16353.jpg
+  Image 2: ../Data_set/images_sorties/test\image17589_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 123:
+  Image 1: ../Data_set/images_sorties/test\image17597_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17436_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 124:
+  Image 1: ../Data_set/images_sorties/test\image17339_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16080_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 125:
+  Image 1: ../Data_set/images_sorties/test\image17427.jpg
+  Image 2: ../Data_set/images_sorties/test\image17569.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 126:
+  Image 1: ../Data_set/images_sorties/test\image17022.jpg
+  Image 2: ../Data_set/images_sorties/test\image17222_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 127:
+  Image 1: ../Data_set/images_sorties/test\image16528.jpg
+  Image 2: ../Data_set/images_sorties/test\image17341_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 128:
+  Image 1: ../Data_set/images_sorties/test\image16962.jpg
+  Image 2: ../Data_set/images_sorties/test\image16579_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 129:
+  Image 1: ../Data_set/images_sorties/test\image17304.jpg
+  Image 2: ../Data_set/images_sorties/test\image17164_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 130:
+  Image 1: ../Data_set/images_sorties/test\image17057.jpg
+  Image 2: ../Data_set/images_sorties/test\image16520_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 131:
+  Image 1: ../Data_set/images_sorties/test\image16992_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16960.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 132:
+  Image 1: ../Data_set/images_sorties/test\image16365_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17130_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 133:
+  Image 1: ../Data_set/images_sorties/test\image16240.jpg
+  Image 2: ../Data_set/images_sorties/test\image17098.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 134:
+  Image 1: ../Data_set/images_sorties/test\image16426.jpg
+  Image 2: ../Data_set/images_sorties/test\image17374.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 135:
+  Image 1: ../Data_set/images_sorties/test\image17084_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16209_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 136:
+  Image 1: ../Data_set/images_sorties/test\image16270.jpg
+  Image 2: ../Data_set/images_sorties/test\image17132_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 137:
+  Image 1: ../Data_set/images_sorties/test\image16498_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16373.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 138:
+  Image 1: ../Data_set/images_sorties/test\image17687_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16890_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 139:
+  Image 1: ../Data_set/images_sorties/test\image16707.jpg
+  Image 2: ../Data_set/images_sorties/test\image16614.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 140:
+  Image 1: ../Data_set/images_sorties/test\image16478.jpg
+  Image 2: ../Data_set/images_sorties/test\image17060_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 141:
+  Image 1: ../Data_set/images_sorties/test\image17297_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16725_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 142:
+  Image 1: ../Data_set/images_sorties/test\image16850_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17249.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 143:
+  Image 1: ../Data_set/images_sorties/test\image17099_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17204_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 144:
+  Image 1: ../Data_set/images_sorties/test\image16795_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17399.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 145:
+  Image 1: ../Data_set/images_sorties/test\image16565.jpg
+  Image 2: ../Data_set/images_sorties/test\image17752.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 146:
+  Image 1: ../Data_set/images_sorties/test\image17590_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16256.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 147:
+  Image 1: ../Data_set/images_sorties/test\image16488.jpg
+  Image 2: ../Data_set/images_sorties/test\image16854.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 148:
+  Image 1: ../Data_set/images_sorties/test\image17095.jpg
+  Image 2: ../Data_set/images_sorties/test\image17362.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 149:
+  Image 1: ../Data_set/images_sorties/test\image16928.jpg
+  Image 2: ../Data_set/images_sorties/test\image16116_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 150:
+  Image 1: ../Data_set/images_sorties/test\image16214_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17194.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 151:
+  Image 1: ../Data_set/images_sorties/test\image17521_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16958.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 152:
+  Image 1: ../Data_set/images_sorties/test\image16130_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16695.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 153:
+  Image 1: ../Data_set/images_sorties/test\image17531.jpg
+  Image 2: ../Data_set/images_sorties/test\image16911_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 154:
+  Image 1: ../Data_set/images_sorties/test\image17327_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16825_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 155:
+  Image 1: ../Data_set/images_sorties/test\image16461_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17363.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 156:
+  Image 1: ../Data_set/images_sorties/test\image16832_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17061.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 157:
+  Image 1: ../Data_set/images_sorties/test\image16034_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16356_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 158:
+  Image 1: ../Data_set/images_sorties/test\image17054_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17234.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 159:
+  Image 1: ../Data_set/images_sorties/test\image17224_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16694.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 160:
+  Image 1: ../Data_set/images_sorties/test\image17212.jpg
+  Image 2: ../Data_set/images_sorties/test\image16976.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 161:
+  Image 1: ../Data_set/images_sorties/test\image16779_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16862.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 162:
+  Image 1: ../Data_set/images_sorties/test\image16408.jpg
+  Image 2: ../Data_set/images_sorties/test\image17324_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 163:
+  Image 1: ../Data_set/images_sorties/test\image17732_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17614_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 164:
+  Image 1: ../Data_set/images_sorties/test\image17221.jpg
+  Image 2: ../Data_set/images_sorties/test\image17385.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 165:
+  Image 1: ../Data_set/images_sorties/test\image16013.jpg
+  Image 2: ../Data_set/images_sorties/test\image17349_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 166:
+  Image 1: ../Data_set/images_sorties/test\image16850_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16804.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 167:
+  Image 1: ../Data_set/images_sorties/test\image16272.jpg
+  Image 2: ../Data_set/images_sorties/test\image16662.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 168:
+  Image 1: ../Data_set/images_sorties/test\image17110.jpg
+  Image 2: ../Data_set/images_sorties/test\image17124_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 169:
+  Image 1: ../Data_set/images_sorties/test\image16475.jpg
+  Image 2: ../Data_set/images_sorties/test\image16888.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 170:
+  Image 1: ../Data_set/images_sorties/test\image16387.jpg
+  Image 2: ../Data_set/images_sorties/test\image16228_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 171:
+  Image 1: ../Data_set/images_sorties/test\image16888.jpg
+  Image 2: ../Data_set/images_sorties/test\image16657_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 172:
+  Image 1: ../Data_set/images_sorties/test\image16948_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16960_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 173:
+  Image 1: ../Data_set/images_sorties/test\image16498_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17388.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 174:
+  Image 1: ../Data_set/images_sorties/test\image16028_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17371.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 175:
+  Image 1: ../Data_set/images_sorties/test\image16093.jpg
+  Image 2: ../Data_set/images_sorties/test\image16066.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 176:
+  Image 1: ../Data_set/images_sorties/test\image17018.jpg
+  Image 2: ../Data_set/images_sorties/test\image17443.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 177:
+  Image 1: ../Data_set/images_sorties/test\image17172_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16608_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 178:
+  Image 1: ../Data_set/images_sorties/test\image16008_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16070.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 179:
+  Image 1: ../Data_set/images_sorties/test\image16862_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16038_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 180:
+  Image 1: ../Data_set/images_sorties/test\image17622.jpg
+  Image 2: ../Data_set/images_sorties/test\image17265_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 181:
+  Image 1: ../Data_set/images_sorties/test\image16758.jpg
+  Image 2: ../Data_set/images_sorties/test\image16384_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 182:
+  Image 1: ../Data_set/images_sorties/test\image16022_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16209_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 183:
+  Image 1: ../Data_set/images_sorties/test\image17183_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16416_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 184:
+  Image 1: ../Data_set/images_sorties/test\image17098.jpg
+  Image 2: ../Data_set/images_sorties/test\image17438.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 185:
+  Image 1: ../Data_set/images_sorties/test\image16687.jpg
+  Image 2: ../Data_set/images_sorties/test\image16342.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 186:
+  Image 1: ../Data_set/images_sorties/test\image16897_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16672_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 187:
+  Image 1: ../Data_set/images_sorties/test\image17401.jpg
+  Image 2: ../Data_set/images_sorties/test\image16039_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 188:
+  Image 1: ../Data_set/images_sorties/test\image16550_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16715_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 189:
+  Image 1: ../Data_set/images_sorties/test\image16062.jpg
+  Image 2: ../Data_set/images_sorties/test\image16950.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 190:
+  Image 1: ../Data_set/images_sorties/test\image17582.jpg
+  Image 2: ../Data_set/images_sorties/test\image17117.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 191:
+  Image 1: ../Data_set/images_sorties/test\image17767.jpg
+  Image 2: ../Data_set/images_sorties/test\image17344.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 192:
+  Image 1: ../Data_set/images_sorties/test\image16982.jpg
+  Image 2: ../Data_set/images_sorties/test\image16033_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 193:
+  Image 1: ../Data_set/images_sorties/test\image17477_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17286_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 194:
+  Image 1: ../Data_set/images_sorties/test\image16341.jpg
+  Image 2: ../Data_set/images_sorties/test\image16127.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 195:
+  Image 1: ../Data_set/images_sorties/test\image17094.jpg
+  Image 2: ../Data_set/images_sorties/test\image16285_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 1
+  test_ViT.py Result: 0
+
+Iteration 196:
+  Image 1: ../Data_set/images_sorties/test\image16340.jpg
+  Image 2: ../Data_set/images_sorties/test\image16924.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 197:
+  Image 1: ../Data_set/images_sorties/test\image16040_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17650_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 198:
+  Image 1: ../Data_set/images_sorties/test\image16135.jpg
+  Image 2: ../Data_set/images_sorties/test\image17564_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 199:
+  Image 1: ../Data_set/images_sorties/test\image16669.jpg
+  Image 2: ../Data_set/images_sorties/test\image16667.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 200:
+  Image 1: ../Data_set/images_sorties/test\image16321.jpg
+  Image 2: ../Data_set/images_sorties/test\image17186_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 201:
+  Image 1: ../Data_set/images_sorties/test\image17355.jpg
+  Image 2: ../Data_set/images_sorties/test\image17057.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 202:
+  Image 1: ../Data_set/images_sorties/test\image16756_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16629_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 203:
+  Image 1: ../Data_set/images_sorties/test\image17757_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17139.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 204:
+  Image 1: ../Data_set/images_sorties/test\image16879_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16619.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 205:
+  Image 1: ../Data_set/images_sorties/test\image16341.jpg
+  Image 2: ../Data_set/images_sorties/test\image17043.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 206:
+  Image 1: ../Data_set/images_sorties/test\image16235.jpg
+  Image 2: ../Data_set/images_sorties/test\image16528_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 207:
+  Image 1: ../Data_set/images_sorties/test\image17680_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16841.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 208:
+  Image 1: ../Data_set/images_sorties/test\image17051.jpg
+  Image 2: ../Data_set/images_sorties/test\image17615.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 209:
+  Image 1: ../Data_set/images_sorties/test\image17632.jpg
+  Image 2: ../Data_set/images_sorties/test\image17183_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 210:
+  Image 1: ../Data_set/images_sorties/test\image17582.jpg
+  Image 2: ../Data_set/images_sorties/test\image16578_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 211:
+  Image 1: ../Data_set/images_sorties/test\image16763.jpg
+  Image 2: ../Data_set/images_sorties/test\image17118.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 212:
+  Image 1: ../Data_set/images_sorties/test\image16922_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17409_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 213:
+  Image 1: ../Data_set/images_sorties/test\image17515_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16812_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 214:
+  Image 1: ../Data_set/images_sorties/test\image16112_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16311.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 215:
+  Image 1: ../Data_set/images_sorties/test\image16615_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17010.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 216:
+  Image 1: ../Data_set/images_sorties/test\image16747.jpg
+  Image 2: ../Data_set/images_sorties/test\image17537_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 217:
+  Image 1: ../Data_set/images_sorties/test\image17352_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16812_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 218:
+  Image 1: ../Data_set/images_sorties/test\image16892.jpg
+  Image 2: ../Data_set/images_sorties/test\image16195_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 219:
+  Image 1: ../Data_set/images_sorties/test\image17214.jpg
+  Image 2: ../Data_set/images_sorties/test\image17391.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 220:
+  Image 1: ../Data_set/images_sorties/test\image17610_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16325.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 221:
+  Image 1: ../Data_set/images_sorties/test\image16030.jpg
+  Image 2: ../Data_set/images_sorties/test\image17624.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 222:
+  Image 1: ../Data_set/images_sorties/test\image16781.jpg
+  Image 2: ../Data_set/images_sorties/test\image16103.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 223:
+  Image 1: ../Data_set/images_sorties/test\image16954.jpg
+  Image 2: ../Data_set/images_sorties/test\image16598.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 224:
+  Image 1: ../Data_set/images_sorties/test\image17139_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16242.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 225:
+  Image 1: ../Data_set/images_sorties/test\image17457_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17222_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 226:
+  Image 1: ../Data_set/images_sorties/test\image17507.jpg
+  Image 2: ../Data_set/images_sorties/test\image16889_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 227:
+  Image 1: ../Data_set/images_sorties/test\image16409_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17506.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 228:
+  Image 1: ../Data_set/images_sorties/test\image17537_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16714.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 229:
+  Image 1: ../Data_set/images_sorties/test\image17470_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16635.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 230:
+  Image 1: ../Data_set/images_sorties/test\image17597_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17361_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 231:
+  Image 1: ../Data_set/images_sorties/test\image16648.jpg
+  Image 2: ../Data_set/images_sorties/test\image16690_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 232:
+  Image 1: ../Data_set/images_sorties/test\image16539.jpg
+  Image 2: ../Data_set/images_sorties/test\image16558.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 233:
+  Image 1: ../Data_set/images_sorties/test\image17322_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17322.jpg
+  True Similarity: 1
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 234:
+  Image 1: ../Data_set/images_sorties/test\image16587.jpg
+  Image 2: ../Data_set/images_sorties/test\image17548_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 235:
+  Image 1: ../Data_set/images_sorties/test\image16538_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17576_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 236:
+  Image 1: ../Data_set/images_sorties/test\image17593_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16869.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 237:
+  Image 1: ../Data_set/images_sorties/test\image17470.jpg
+  Image 2: ../Data_set/images_sorties/test\image16274_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 238:
+  Image 1: ../Data_set/images_sorties/test\image17611.jpg
+  Image 2: ../Data_set/images_sorties/test\image16959_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 239:
+  Image 1: ../Data_set/images_sorties/test\image17724.jpg
+  Image 2: ../Data_set/images_sorties/test\image17079_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 240:
+  Image 1: ../Data_set/images_sorties/test\image16269_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16623_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 241:
+  Image 1: ../Data_set/images_sorties/test\image16218_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16000_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 242:
+  Image 1: ../Data_set/images_sorties/test\image16353_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17318.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 243:
+  Image 1: ../Data_set/images_sorties/test\image16846_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16964_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 244:
+  Image 1: ../Data_set/images_sorties/test\image17168.jpg
+  Image 2: ../Data_set/images_sorties/test\image16729.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 245:
+  Image 1: ../Data_set/images_sorties/test\image17311_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17474.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 246:
+  Image 1: ../Data_set/images_sorties/test\image17152_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16525_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 247:
+  Image 1: ../Data_set/images_sorties/test\image16530.jpg
+  Image 2: ../Data_set/images_sorties/test\image16506_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 248:
+  Image 1: ../Data_set/images_sorties/test\image17366_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17348.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 249:
+  Image 1: ../Data_set/images_sorties/test\image16055.jpg
+  Image 2: ../Data_set/images_sorties/test\image17448_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 250:
+  Image 1: ../Data_set/images_sorties/test\image17642.jpg
+  Image 2: ../Data_set/images_sorties/test\image16964_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 251:
+  Image 1: ../Data_set/images_sorties/test\image17609.jpg
+  Image 2: ../Data_set/images_sorties/test\image16211_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 252:
+  Image 1: ../Data_set/images_sorties/test\image16631_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17422_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 253:
+  Image 1: ../Data_set/images_sorties/test\image17573.jpg
+  Image 2: ../Data_set/images_sorties/test\image17580.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 254:
+  Image 1: ../Data_set/images_sorties/test\image16022_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16443.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 255:
+  Image 1: ../Data_set/images_sorties/test\image17354_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17260.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 256:
+  Image 1: ../Data_set/images_sorties/test\image16884.jpg
+  Image 2: ../Data_set/images_sorties/test\image16559_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 257:
+  Image 1: ../Data_set/images_sorties/test\image16170.jpg
+  Image 2: ../Data_set/images_sorties/test\image17249.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 258:
+  Image 1: ../Data_set/images_sorties/test\image16012_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16222_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 1
+  test_ViT.py Result: 1
+
+Iteration 259:
+  Image 1: ../Data_set/images_sorties/test\image17263_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17755.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 260:
+  Image 1: ../Data_set/images_sorties/test\image16903.jpg
+  Image 2: ../Data_set/images_sorties/test\image16169.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 261:
+  Image 1: ../Data_set/images_sorties/test\image16939.jpg
+  Image 2: ../Data_set/images_sorties/test\image16510.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 262:
+  Image 1: ../Data_set/images_sorties/test\image16973_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17394_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 263:
+  Image 1: ../Data_set/images_sorties/test\image16409.jpg
+  Image 2: ../Data_set/images_sorties/test\image16031.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 264:
+  Image 1: ../Data_set/images_sorties/test\image17388.jpg
+  Image 2: ../Data_set/images_sorties/test\image17666_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 265:
+  Image 1: ../Data_set/images_sorties/test\image16959_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16243_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 266:
+  Image 1: ../Data_set/images_sorties/test\image16375.jpg
+  Image 2: ../Data_set/images_sorties/test\image17576_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 267:
+  Image 1: ../Data_set/images_sorties/test\image16906.jpg
+  Image 2: ../Data_set/images_sorties/test\image16292_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 268:
+  Image 1: ../Data_set/images_sorties/test\image16435.jpg
+  Image 2: ../Data_set/images_sorties/test\image16095.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 269:
+  Image 1: ../Data_set/images_sorties/test\image16964_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17547_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 270:
+  Image 1: ../Data_set/images_sorties/test\image16461.jpg
+  Image 2: ../Data_set/images_sorties/test\image16431_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 271:
+  Image 1: ../Data_set/images_sorties/test\image16296.jpg
+  Image 2: ../Data_set/images_sorties/test\image17646.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 272:
+  Image 1: ../Data_set/images_sorties/test\image16865_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16375.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 273:
+  Image 1: ../Data_set/images_sorties/test\image16407_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17009.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 274:
+  Image 1: ../Data_set/images_sorties/test\image16839_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16287_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 275:
+  Image 1: ../Data_set/images_sorties/test\image16020_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17048.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 276:
+  Image 1: ../Data_set/images_sorties/test\image17164_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17140.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 277:
+  Image 1: ../Data_set/images_sorties/test\image16991_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16533_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 278:
+  Image 1: ../Data_set/images_sorties/test\image17082_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17027.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 279:
+  Image 1: ../Data_set/images_sorties/test\image16531.jpg
+  Image 2: ../Data_set/images_sorties/test\image16105_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 280:
+  Image 1: ../Data_set/images_sorties/test\image16004.jpg
+  Image 2: ../Data_set/images_sorties/test\image17143_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 281:
+  Image 1: ../Data_set/images_sorties/test\image17542.jpg
+  Image 2: ../Data_set/images_sorties/test\image16889.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 282:
+  Image 1: ../Data_set/images_sorties/test\image16734_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17667_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 283:
+  Image 1: ../Data_set/images_sorties/test\image16122_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16729_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 284:
+  Image 1: ../Data_set/images_sorties/test\image17130_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16345_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 285:
+  Image 1: ../Data_set/images_sorties/test\image16288.jpg
+  Image 2: ../Data_set/images_sorties/test\image17611_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 286:
+  Image 1: ../Data_set/images_sorties/test\image17216_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17528_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 287:
+  Image 1: ../Data_set/images_sorties/test\image16338.jpg
+  Image 2: ../Data_set/images_sorties/test\image16056.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 288:
+  Image 1: ../Data_set/images_sorties/test\image17227_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17441_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 289:
+  Image 1: ../Data_set/images_sorties/test\image17614.jpg
+  Image 2: ../Data_set/images_sorties/test\image17248_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 290:
+  Image 1: ../Data_set/images_sorties/test\image17702.jpg
+  Image 2: ../Data_set/images_sorties/test\image16595.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 291:
+  Image 1: ../Data_set/images_sorties/test\image16289.jpg
+  Image 2: ../Data_set/images_sorties/test\image17536_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 292:
+  Image 1: ../Data_set/images_sorties/test\image17392.jpg
+  Image 2: ../Data_set/images_sorties/test\image16193.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 293:
+  Image 1: ../Data_set/images_sorties/test\image16965_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16056_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 294:
+  Image 1: ../Data_set/images_sorties/test\image17759_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16467.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 295:
+  Image 1: ../Data_set/images_sorties/test\image16574.jpg
+  Image 2: ../Data_set/images_sorties/test\image16837.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 296:
+  Image 1: ../Data_set/images_sorties/test\image16291.jpg
+  Image 2: ../Data_set/images_sorties/test\image17424.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 297:
+  Image 1: ../Data_set/images_sorties/test\image17556_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17025.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 298:
+  Image 1: ../Data_set/images_sorties/test\image16778.jpg
+  Image 2: ../Data_set/images_sorties/test\image16728_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 299:
+  Image 1: ../Data_set/images_sorties/test\image16879.jpg
+  Image 2: ../Data_set/images_sorties/test\image17701_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 300:
+  Image 1: ../Data_set/images_sorties/test\image16243_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17280_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 301:
+  Image 1: ../Data_set/images_sorties/test\image17506_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16320.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 302:
+  Image 1: ../Data_set/images_sorties/test\image17449_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16455_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 303:
+  Image 1: ../Data_set/images_sorties/test\image16066.jpg
+  Image 2: ../Data_set/images_sorties/test\image17484_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 304:
+  Image 1: ../Data_set/images_sorties/test\image16402_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17756.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 305:
+  Image 1: ../Data_set/images_sorties/test\image16851.jpg
+  Image 2: ../Data_set/images_sorties/test\image17161_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 306:
+  Image 1: ../Data_set/images_sorties/test\image17621_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16534.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 307:
+  Image 1: ../Data_set/images_sorties/test\image17477.jpg
+  Image 2: ../Data_set/images_sorties/test\image17762.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 308:
+  Image 1: ../Data_set/images_sorties/test\image17036_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17148_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 309:
+  Image 1: ../Data_set/images_sorties/test\image16403.jpg
+  Image 2: ../Data_set/images_sorties/test\image16717.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 310:
+  Image 1: ../Data_set/images_sorties/test\image17260.jpg
+  Image 2: ../Data_set/images_sorties/test\image16489_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 311:
+  Image 1: ../Data_set/images_sorties/test\image17661.jpg
+  Image 2: ../Data_set/images_sorties/test\image16046.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 312:
+  Image 1: ../Data_set/images_sorties/test\image16388_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17413_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 313:
+  Image 1: ../Data_set/images_sorties/test\image17320_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17390.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 314:
+  Image 1: ../Data_set/images_sorties/test\image17737_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16565.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 315:
+  Image 1: ../Data_set/images_sorties/test\image17450.jpg
+  Image 2: ../Data_set/images_sorties/test\image16545_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 316:
+  Image 1: ../Data_set/images_sorties/test\image16022.jpg
+  Image 2: ../Data_set/images_sorties/test\image17447.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 317:
+  Image 1: ../Data_set/images_sorties/test\image16249_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16619_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 318:
+  Image 1: ../Data_set/images_sorties/test\image16864.jpg
+  Image 2: ../Data_set/images_sorties/test\image17668.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 319:
+  Image 1: ../Data_set/images_sorties/test\image17726_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17728.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 320:
+  Image 1: ../Data_set/images_sorties/test\image17282_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16292.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 321:
+  Image 1: ../Data_set/images_sorties/test\image16264.jpg
+  Image 2: ../Data_set/images_sorties/test\image17532_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 322:
+  Image 1: ../Data_set/images_sorties/test\image16682.jpg
+  Image 2: ../Data_set/images_sorties/test\image17584_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 323:
+  Image 1: ../Data_set/images_sorties/test\image17319.jpg
+  Image 2: ../Data_set/images_sorties/test\image16566_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 324:
+  Image 1: ../Data_set/images_sorties/test\image16322.jpg
+  Image 2: ../Data_set/images_sorties/test\image16060_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 325:
+  Image 1: ../Data_set/images_sorties/test\image16263.jpg
+  Image 2: ../Data_set/images_sorties/test\image16372.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 326:
+  Image 1: ../Data_set/images_sorties/test\image17114_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16365_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 327:
+  Image 1: ../Data_set/images_sorties/test\image17008.jpg
+  Image 2: ../Data_set/images_sorties/test\image16678.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 328:
+  Image 1: ../Data_set/images_sorties/test\image16050.jpg
+  Image 2: ../Data_set/images_sorties/test\image17260.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 329:
+  Image 1: ../Data_set/images_sorties/test\image16659_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17515.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 330:
+  Image 1: ../Data_set/images_sorties/test\image17467.jpg
+  Image 2: ../Data_set/images_sorties/test\image17707_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 331:
+  Image 1: ../Data_set/images_sorties/test\image16049_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16311.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 332:
+  Image 1: ../Data_set/images_sorties/test\image16048.jpg
+  Image 2: ../Data_set/images_sorties/test\image16608_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 333:
+  Image 1: ../Data_set/images_sorties/test\image17297_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17493_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 334:
+  Image 1: ../Data_set/images_sorties/test\image16174.jpg
+  Image 2: ../Data_set/images_sorties/test\image17588_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 335:
+  Image 1: ../Data_set/images_sorties/test\image17217_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17018_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 336:
+  Image 1: ../Data_set/images_sorties/test\image16110.jpg
+  Image 2: ../Data_set/images_sorties/test\image17372.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 337:
+  Image 1: ../Data_set/images_sorties/test\image16867.jpg
+  Image 2: ../Data_set/images_sorties/test\image17245_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 338:
+  Image 1: ../Data_set/images_sorties/test\image17570.jpg
+  Image 2: ../Data_set/images_sorties/test\image17412_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 339:
+  Image 1: ../Data_set/images_sorties/test\image16942_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16908_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 340:
+  Image 1: ../Data_set/images_sorties/test\image17393.jpg
+  Image 2: ../Data_set/images_sorties/test\image16050.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 341:
+  Image 1: ../Data_set/images_sorties/test\image16302_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16269_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 342:
+  Image 1: ../Data_set/images_sorties/test\image16487_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16467.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 343:
+  Image 1: ../Data_set/images_sorties/test\image17183_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16012_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 344:
+  Image 1: ../Data_set/images_sorties/test\image16861.jpg
+  Image 2: ../Data_set/images_sorties/test\image17425_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 345:
+  Image 1: ../Data_set/images_sorties/test\image17551.jpg
+  Image 2: ../Data_set/images_sorties/test\image16096.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 346:
+  Image 1: ../Data_set/images_sorties/test\image16134.jpg
+  Image 2: ../Data_set/images_sorties/test\image16842_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 347:
+  Image 1: ../Data_set/images_sorties/test\image16880_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17547.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 348:
+  Image 1: ../Data_set/images_sorties/test\image16647.jpg
+  Image 2: ../Data_set/images_sorties/test\image16428.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 349:
+  Image 1: ../Data_set/images_sorties/test\image16508.jpg
+  Image 2: ../Data_set/images_sorties/test\image16601_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 350:
+  Image 1: ../Data_set/images_sorties/test\image16697_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16506.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 351:
+  Image 1: ../Data_set/images_sorties/test\image17360_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17708.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 352:
+  Image 1: ../Data_set/images_sorties/test\image17497.jpg
+  Image 2: ../Data_set/images_sorties/test\image16443.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 353:
+  Image 1: ../Data_set/images_sorties/test\image16229.jpg
+  Image 2: ../Data_set/images_sorties/test\image16473.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 354:
+  Image 1: ../Data_set/images_sorties/test\image17322_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17033_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 355:
+  Image 1: ../Data_set/images_sorties/test\image16747_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16899_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 356:
+  Image 1: ../Data_set/images_sorties/test\image16352_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16570.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 357:
+  Image 1: ../Data_set/images_sorties/test\image17185_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16819.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 358:
+  Image 1: ../Data_set/images_sorties/test\image17131.jpg
+  Image 2: ../Data_set/images_sorties/test\image16034.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 359:
+  Image 1: ../Data_set/images_sorties/test\image16213.jpg
+  Image 2: ../Data_set/images_sorties/test\image17628.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 360:
+  Image 1: ../Data_set/images_sorties/test\image16867.jpg
+  Image 2: ../Data_set/images_sorties/test\image16539.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 361:
+  Image 1: ../Data_set/images_sorties/test\image16007.jpg
+  Image 2: ../Data_set/images_sorties/test\image16607_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 362:
+  Image 1: ../Data_set/images_sorties/test\image17034.jpg
+  Image 2: ../Data_set/images_sorties/test\image17179_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 363:
+  Image 1: ../Data_set/images_sorties/test\image16047_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16883_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 364:
+  Image 1: ../Data_set/images_sorties/test\image17658.jpg
+  Image 2: ../Data_set/images_sorties/test\image17180.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 365:
+  Image 1: ../Data_set/images_sorties/test\image17583.jpg
+  Image 2: ../Data_set/images_sorties/test\image17031_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 366:
+  Image 1: ../Data_set/images_sorties/test\image16567_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17425_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 367:
+  Image 1: ../Data_set/images_sorties/test\image17624_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16295_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 368:
+  Image 1: ../Data_set/images_sorties/test\image16678.jpg
+  Image 2: ../Data_set/images_sorties/test\image16598_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 369:
+  Image 1: ../Data_set/images_sorties/test\image17153.jpg
+  Image 2: ../Data_set/images_sorties/test\image17758_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 370:
+  Image 1: ../Data_set/images_sorties/test\image17439_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17270.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 371:
+  Image 1: ../Data_set/images_sorties/test\image17064_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17147.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 372:
+  Image 1: ../Data_set/images_sorties/test\image17380.jpg
+  Image 2: ../Data_set/images_sorties/test\image17717_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 373:
+  Image 1: ../Data_set/images_sorties/test\image16416_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17060.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 374:
+  Image 1: ../Data_set/images_sorties/test\image17640_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16965_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 375:
+  Image 1: ../Data_set/images_sorties/test\image17619.jpg
+  Image 2: ../Data_set/images_sorties/test\image17616.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 376:
+  Image 1: ../Data_set/images_sorties/test\image17363_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17095_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 377:
+  Image 1: ../Data_set/images_sorties/test\image16747.jpg
+  Image 2: ../Data_set/images_sorties/test\image16905.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 378:
+  Image 1: ../Data_set/images_sorties/test\image16619.jpg
+  Image 2: ../Data_set/images_sorties/test\image16562.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 379:
+  Image 1: ../Data_set/images_sorties/test\image17012_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16088.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 380:
+  Image 1: ../Data_set/images_sorties/test\image16815_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17059.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 381:
+  Image 1: ../Data_set/images_sorties/test\image16487.jpg
+  Image 2: ../Data_set/images_sorties/test\image16174_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 382:
+  Image 1: ../Data_set/images_sorties/test\image17210_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17440_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 383:
+  Image 1: ../Data_set/images_sorties/test\image16954_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16801.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 384:
+  Image 1: ../Data_set/images_sorties/test\image16456.jpg
+  Image 2: ../Data_set/images_sorties/test\image16953.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 385:
+  Image 1: ../Data_set/images_sorties/test\image17375_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17717.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 386:
+  Image 1: ../Data_set/images_sorties/test\image16024.jpg
+  Image 2: ../Data_set/images_sorties/test\image16340_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 387:
+  Image 1: ../Data_set/images_sorties/test\image16982_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16490_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 388:
+  Image 1: ../Data_set/images_sorties/test\image17365_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17554_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 389:
+  Image 1: ../Data_set/images_sorties/test\image16938.jpg
+  Image 2: ../Data_set/images_sorties/test\image16678.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 390:
+  Image 1: ../Data_set/images_sorties/test\image17572.jpg
+  Image 2: ../Data_set/images_sorties/test\image17745.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 391:
+  Image 1: ../Data_set/images_sorties/test\image17417_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16926.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 392:
+  Image 1: ../Data_set/images_sorties/test\image16604_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16888_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 393:
+  Image 1: ../Data_set/images_sorties/test\image16607.jpg
+  Image 2: ../Data_set/images_sorties/test\image16796.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 394:
+  Image 1: ../Data_set/images_sorties/test\image16627_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17031.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 395:
+  Image 1: ../Data_set/images_sorties/test\image17755_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16068.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 396:
+  Image 1: ../Data_set/images_sorties/test\image17083_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16007_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 397:
+  Image 1: ../Data_set/images_sorties/test\image17662_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17112.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 398:
+  Image 1: ../Data_set/images_sorties/test\image17263.jpg
+  Image 2: ../Data_set/images_sorties/test\image16815.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 399:
+  Image 1: ../Data_set/images_sorties/test\image16617.jpg
+  Image 2: ../Data_set/images_sorties/test\image17425.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 400:
+  Image 1: ../Data_set/images_sorties/test\image16260_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17560.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 401:
+  Image 1: ../Data_set/images_sorties/test\image16716.jpg
+  Image 2: ../Data_set/images_sorties/test\image17727_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 402:
+  Image 1: ../Data_set/images_sorties/test\image17157.jpg
+  Image 2: ../Data_set/images_sorties/test\image17248_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 403:
+  Image 1: ../Data_set/images_sorties/test\image17400_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17090.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 404:
+  Image 1: ../Data_set/images_sorties/test\image16440.jpg
+  Image 2: ../Data_set/images_sorties/test\image16822.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 405:
+  Image 1: ../Data_set/images_sorties/test\image17524_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16925.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 406:
+  Image 1: ../Data_set/images_sorties/test\image16071.jpg
+  Image 2: ../Data_set/images_sorties/test\image16335_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 407:
+  Image 1: ../Data_set/images_sorties/test\image17382_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16798.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 408:
+  Image 1: ../Data_set/images_sorties/test\image17738_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17493.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 409:
+  Image 1: ../Data_set/images_sorties/test\image16945_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17433_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 410:
+  Image 1: ../Data_set/images_sorties/test\image17378_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16183_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 411:
+  Image 1: ../Data_set/images_sorties/test\image16093_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16100_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 412:
+  Image 1: ../Data_set/images_sorties/test\image17125.jpg
+  Image 2: ../Data_set/images_sorties/test\image16299.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 413:
+  Image 1: ../Data_set/images_sorties/test\image17226.jpg
+  Image 2: ../Data_set/images_sorties/test\image17669_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 414:
+  Image 1: ../Data_set/images_sorties/test\image16631_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16563_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 415:
+  Image 1: ../Data_set/images_sorties/test\image16713_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17234.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 416:
+  Image 1: ../Data_set/images_sorties/test\image17150_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17424.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 417:
+  Image 1: ../Data_set/images_sorties/test\image16162_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17514.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 418:
+  Image 1: ../Data_set/images_sorties/test\image16377.jpg
+  Image 2: ../Data_set/images_sorties/test\image17760.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 419:
+  Image 1: ../Data_set/images_sorties/test\image17165_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16841_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 420:
+  Image 1: ../Data_set/images_sorties/test\image16231_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16795.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 421:
+  Image 1: ../Data_set/images_sorties/test\image16647_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16790_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 422:
+  Image 1: ../Data_set/images_sorties/test\image16375_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17586_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 423:
+  Image 1: ../Data_set/images_sorties/test\image16227.jpg
+  Image 2: ../Data_set/images_sorties/test\image16925_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 424:
+  Image 1: ../Data_set/images_sorties/test\image16245.jpg
+  Image 2: ../Data_set/images_sorties/test\image16309.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 425:
+  Image 1: ../Data_set/images_sorties/test\image17170.jpg
+  Image 2: ../Data_set/images_sorties/test\image17367.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 426:
+  Image 1: ../Data_set/images_sorties/test\image17467_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16476_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 427:
+  Image 1: ../Data_set/images_sorties/test\image16989_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16100_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 428:
+  Image 1: ../Data_set/images_sorties/test\image16706.jpg
+  Image 2: ../Data_set/images_sorties/test\image15998.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 429:
+  Image 1: ../Data_set/images_sorties/test\image16572.jpg
+  Image 2: ../Data_set/images_sorties/test\image16925_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 430:
+  Image 1: ../Data_set/images_sorties/test\image16388.jpg
+  Image 2: ../Data_set/images_sorties/test\image16597.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 431:
+  Image 1: ../Data_set/images_sorties/test\image17751.jpg
+  Image 2: ../Data_set/images_sorties/test\image16792.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 432:
+  Image 1: ../Data_set/images_sorties/test\image16641_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16418.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 433:
+  Image 1: ../Data_set/images_sorties/test\image16943.jpg
+  Image 2: ../Data_set/images_sorties/test\image16709_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 434:
+  Image 1: ../Data_set/images_sorties/test\image16493_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16675_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 435:
+  Image 1: ../Data_set/images_sorties/test\image17405.jpg
+  Image 2: ../Data_set/images_sorties/test\image16254_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 436:
+  Image 1: ../Data_set/images_sorties/test\image16890_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17247.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 437:
+  Image 1: ../Data_set/images_sorties/test\image16423_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16837_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 438:
+  Image 1: ../Data_set/images_sorties/test\image16136_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17000_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 439:
+  Image 1: ../Data_set/images_sorties/test\image17022_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17478_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 440:
+  Image 1: ../Data_set/images_sorties/test\image17555.jpg
+  Image 2: ../Data_set/images_sorties/test\image16478_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 441:
+  Image 1: ../Data_set/images_sorties/test\image17641_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17614.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 442:
+  Image 1: ../Data_set/images_sorties/test\image17459_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17658_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 443:
+  Image 1: ../Data_set/images_sorties/test\image17216_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16784.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 444:
+  Image 1: ../Data_set/images_sorties/test\image17137.jpg
+  Image 2: ../Data_set/images_sorties/test\image17407.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 445:
+  Image 1: ../Data_set/images_sorties/test\image16603.jpg
+  Image 2: ../Data_set/images_sorties/test\image16215_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 446:
+  Image 1: ../Data_set/images_sorties/test\image16724.jpg
+  Image 2: ../Data_set/images_sorties/test\image16322.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 447:
+  Image 1: ../Data_set/images_sorties/test\image17752.jpg
+  Image 2: ../Data_set/images_sorties/test\image16614.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 448:
+  Image 1: ../Data_set/images_sorties/test\image17014.jpg
+  Image 2: ../Data_set/images_sorties/test\image17034_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 449:
+  Image 1: ../Data_set/images_sorties/test\image16944_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16199_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 450:
+  Image 1: ../Data_set/images_sorties/test\image16655.jpg
+  Image 2: ../Data_set/images_sorties/test\image16006_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 451:
+  Image 1: ../Data_set/images_sorties/test\image16345.jpg
+  Image 2: ../Data_set/images_sorties/test\image16723_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 452:
+  Image 1: ../Data_set/images_sorties/test\image16331_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17635_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 453:
+  Image 1: ../Data_set/images_sorties/test\image16048_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16878_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 454:
+  Image 1: ../Data_set/images_sorties/test\image16809_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17671_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 455:
+  Image 1: ../Data_set/images_sorties/test\image16198_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16925_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 456:
+  Image 1: ../Data_set/images_sorties/test\image16563_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16125_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 457:
+  Image 1: ../Data_set/images_sorties/test\image17275_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17330_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 458:
+  Image 1: ../Data_set/images_sorties/test\image16555_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17263.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 459:
+  Image 1: ../Data_set/images_sorties/test\image16430_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17372_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 460:
+  Image 1: ../Data_set/images_sorties/test\image16851_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16912.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 461:
+  Image 1: ../Data_set/images_sorties/test\image17218.jpg
+  Image 2: ../Data_set/images_sorties/test\image16898.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 462:
+  Image 1: ../Data_set/images_sorties/test\image16627.jpg
+  Image 2: ../Data_set/images_sorties/test\image17337_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 463:
+  Image 1: ../Data_set/images_sorties/test\image17486_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17000_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 464:
+  Image 1: ../Data_set/images_sorties/test\image16152.jpg
+  Image 2: ../Data_set/images_sorties/test\image17336_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 465:
+  Image 1: ../Data_set/images_sorties/test\image16529.jpg
+  Image 2: ../Data_set/images_sorties/test\image17401.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 466:
+  Image 1: ../Data_set/images_sorties/test\image16783_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16981_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 467:
+  Image 1: ../Data_set/images_sorties/test\image16812_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16468_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 468:
+  Image 1: ../Data_set/images_sorties/test\image17140_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16528.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 469:
+  Image 1: ../Data_set/images_sorties/test\image16721_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17531_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 470:
+  Image 1: ../Data_set/images_sorties/test\image16111_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17153_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 471:
+  Image 1: ../Data_set/images_sorties/test\image17270.jpg
+  Image 2: ../Data_set/images_sorties/test\image17580_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 1
+
+Iteration 472:
+  Image 1: ../Data_set/images_sorties/test\image16038.jpg
+  Image 2: ../Data_set/images_sorties/test\image17714_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 473:
+  Image 1: ../Data_set/images_sorties/test\image16724.jpg
+  Image 2: ../Data_set/images_sorties/test\image17414.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 474:
+  Image 1: ../Data_set/images_sorties/test\image16946.jpg
+  Image 2: ../Data_set/images_sorties/test\image16426_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 475:
+  Image 1: ../Data_set/images_sorties/test\image16276.jpg
+  Image 2: ../Data_set/images_sorties/test\image16557.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 476:
+  Image 1: ../Data_set/images_sorties/test\image17596.jpg
+  Image 2: ../Data_set/images_sorties/test\image16990.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 477:
+  Image 1: ../Data_set/images_sorties/test\image16939.jpg
+  Image 2: ../Data_set/images_sorties/test\image16389_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 478:
+  Image 1: ../Data_set/images_sorties/test\image17721.jpg
+  Image 2: ../Data_set/images_sorties/test\image16568_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 479:
+  Image 1: ../Data_set/images_sorties/test\image16293_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16290.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 480:
+  Image 1: ../Data_set/images_sorties/test\image17738_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16727_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 481:
+  Image 1: ../Data_set/images_sorties/test\image16738.jpg
+  Image 2: ../Data_set/images_sorties/test\image16354_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 482:
+  Image 1: ../Data_set/images_sorties/test\image16666_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17043_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 483:
+  Image 1: ../Data_set/images_sorties/test\image16278_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17446_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 484:
+  Image 1: ../Data_set/images_sorties/test\image16267.jpg
+  Image 2: ../Data_set/images_sorties/test\image17563.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 485:
+  Image 1: ../Data_set/images_sorties/test\image17045.jpg
+  Image 2: ../Data_set/images_sorties/test\image16507_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 486:
+  Image 1: ../Data_set/images_sorties/test\image16181_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16422_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 487:
+  Image 1: ../Data_set/images_sorties/test\image16959_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17729_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 488:
+  Image 1: ../Data_set/images_sorties/test\image16989_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17760_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 489:
+  Image 1: ../Data_set/images_sorties/test\image17008_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16946_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 490:
+  Image 1: ../Data_set/images_sorties/test\image16873_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image17064.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 491:
+  Image 1: ../Data_set/images_sorties/test\image17660_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16740_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 492:
+  Image 1: ../Data_set/images_sorties/test\image17394.jpg
+  Image 2: ../Data_set/images_sorties/test\image17081_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 493:
+  Image 1: ../Data_set/images_sorties/test\image17752.jpg
+  Image 2: ../Data_set/images_sorties/test\image16377_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 494:
+  Image 1: ../Data_set/images_sorties/test\image17204.jpg
+  Image 2: ../Data_set/images_sorties/test\image16462_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 495:
+  Image 1: ../Data_set/images_sorties/test\image16595.jpg
+  Image 2: ../Data_set/images_sorties/test\image17610.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 496:
+  Image 1: ../Data_set/images_sorties/test\image16247_cropped.jpg
+  Image 2: ../Data_set/images_sorties/test\image16563.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 497:
+  Image 1: ../Data_set/images_sorties/test\image16338.jpg
+  Image 2: ../Data_set/images_sorties/test\image16432_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 498:
+  Image 1: ../Data_set/images_sorties/test\image16474.jpg
+  Image 2: ../Data_set/images_sorties/test\image16742_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 499:
+  Image 1: ../Data_set/images_sorties/test\image17684.jpg
+  Image 2: ../Data_set/images_sorties/test\image16117_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
+Iteration 500:
+  Image 1: ../Data_set/images_sorties/test\image16068.jpg
+  Image 2: ../Data_set/images_sorties/test\image17649_cropped.jpg
+  True Similarity: 0
+  utilisation.py Result: 0
+  test_ViT.py Result: 0
+
